@@ -1,5 +1,4 @@
 - I’m @halldalton, a Data Scientist at Code Willing, LLC.
 - I’m interested in applications of data science and machine learning to financial data
-- I’m currently learning Scala and functional programming
-- I’m looking to collaborate on Data Science and Scala projects
-- How to reach me halldalton94@outlook.com
+- I’m currently learning Rust and Systems programming
+- I’m looking to collaborate on Data Science projects
