@@ -1,4 +1,2 @@
-- I’m @halldalton, a Data Scientist at Code Willing, LLC.
-- I’m interested in applications of data science and machine learning to financial data
-- I’m currently learning Rust and Systems programming
+- I’m @halldalton, a Data Scientist
 - I’m looking to collaborate on Data Science projects
